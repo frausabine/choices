@@ -1,9 +1,9 @@
-Adipisicing fugiat exercitation exercitation sunt. Sit voluptate qui labore incididunt esse officia dolore do dolore commodo eiusmod commodo. Sunt nostrud deserunt reprehenderit Lorem eu amet ipsum culpa velit ad nostrud incididunt exercitation ut officia. Cupidatat voluptate nostrud commodo aliquip dolor ad cillum ut labore incididunt consequat laboris.
+Diese Visualisierung zeigt den editorischen und publizistischen Workflow der Zeitschrift für digitalen Geisteswissenschaften (ZfdG)[https://zfdg.de]. Der Workflow wird im Kontext der Zusammenarbeit mit dem SeDOA Innovation Lab, angesiedelt an der Fachhochschule Potsdam, untersucht.
 
-# How to Use
+# Wie funktioniert das Flowchart
 
-Use the button below to start (and pause) the audio narration of the chart. You can also explore the chart yourself by selecting any visible items and moving along step by step.
+Sie können das Diagramm eigenständig erkunden, indem Sie beliebige sichtbare Elemente auswählen und Schritt für Schritt weitergehen. Alle einmal ausgewählten Elemente bleiben sichtbar. Eine Audio-Narration steht derzeit nicht zur Verfügung, kann bei Bedarf jedoch für Version 2 umgesetzt werden. Dazu wird ein Button "Play" und "Pause" hinzugefügt.
 
 # Credits
 
-This demo project was created at [Urban Complexity Lab](https://uclab.fh-potsdam.de/) as a placeholder example for the customizable flowchart template linked to below.
+Das template für die Visualisierung wurde am [Urban Complexity Lab](https://uclab.fh-potsdam.de/) gestaltet.
