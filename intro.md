@@ -1,4 +1,6 @@
-Diese Visualisierung zeigt den editorischen und publizistischen Workflow der Zeitschrift für digitalen Geisteswissenschaften (ZfdG)[https://zfdg.de]. Der Workflow wird im Kontext der Zusammenarbeit mit dem SeDOA Innovation Lab, angesiedelt an der Fachhochschule Potsdam, untersucht.
+# Die Zeitschrift für digitale Geisteswissenschaften
+
+Diese Visualisierung zeigt den editorischen und publizistischen Workflow der Zeitschrift für digitalen Geisteswissenschaften [ZfdG](https://zfdg.de). Der Workflow wird im Kontext der Zusammenarbeit mit dem SeDOA Innovation Lab, angesiedelt an der Fachhochschule Potsdam, untersucht.
 
 # Wie funktioniert das Flowchart
 
@@ -6,4 +8,4 @@ Sie können das Diagramm eigenständig erkunden, indem Sie beliebige sichtbare E
 
 # Credits
 
-Das template für die Visualisierung wurde am [Urban Complexity Lab](https://uclab.fh-potsdam.de/) gestaltet.
+Das [template](https://github.com/uclab-potsdam/interactive-flowchart) für die Visualisierung wurde am [Urban Complexity Lab](https://uclab.fh-potsdam.de/) gestaltet.
